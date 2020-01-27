@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-dania/lab-07-api-server/pull/1)
 - [ci/cd] ()
 - [swagger_hub]()
 
